@@ -1,4 +1,4 @@
-#### analytics-operator-flatten
+#### analytics-operator-csv-provider-trigger
 
 Trigger [analytics-csv-provider](https://github.com/PlatonaM/analytics-csv-provider) when new data is available.
 
