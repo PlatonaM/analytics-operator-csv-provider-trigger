@@ -78,6 +78,6 @@ public class CSVProviderHandler {
                 jobID = createJob();
             }
         }
-        logger.info("started job '"+ jobID +"'");
+        logger.info("started job '" + jobID + "'");
     }
 }
